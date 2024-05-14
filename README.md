@@ -2,7 +2,8 @@
 
 **🥘Food Ordering Python Code**: A restaurant system built with loops (while, for)♾️  and conditional statements (if-else) to handle orders efficiently. Convenient menu display, calculation of costs, and invoice generation🧾. Ideal for learning and reference.
 
-![indianfood.png](https://github.com/nikhilbhende67/zwigato/blob/742acb5a340bf294db1e49ae1b39e3fbbd5c1d9f/Designer.png)
+![Designer](https://github.com/nikhilbhende67/zwigato/assets/134313113/c9f372e8-a6fc-4e7a-b1b0-baa89b2b173a)
+
 
 ### **🍕Food Ordering System🥗** ###
 
